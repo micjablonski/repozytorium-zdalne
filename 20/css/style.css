@@ -1,0 +1,43 @@
+body {
+background-color:#ff0;
+}
+
+h1 {
+    background-color:#f00; 
+}
+
+h2 {
+    background-color:#fff; 
+}
+
+#p1 {
+    background-color: #00f; 
+}
+
+#p2 {
+    background-color: #0f0; 
+}
+
+ol {
+    background-color: #555; 
+}
+
+#l1 {
+    color: rgb(250, 134, 2); 
+}
+
+#l2 {
+    color: rgb(93, 250, 2); 
+}
+
+#l3 {
+    color: rgb(2, 250, 250); 
+}
+
+#l4 {
+    color: rgb(2, 81, 250); 
+}
+
+#l5 {
+    color: rgb(250, 2, 229); 
+}
