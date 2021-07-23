@@ -1,0 +1,10 @@
+p {
+    color:#f00; 
+}
+
+h1, h3 {
+    background-color:#00f; 
+}
+h1 + h3 {
+    color: #0f0;
+}
