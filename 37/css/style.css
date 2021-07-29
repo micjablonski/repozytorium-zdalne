@@ -1,0 +1,39 @@
+body {
+    background-color: aqua;
+}
+
+p {
+    font-size: large;
+    color:black;
+    font-style: italic;
+}
+
+#usun {
+    border: 20px;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    background-color: rgba(200, 0, 0, 1);
+}
+
+#usun:hover {
+    background-color: rgba(255, 0, 0, 1);
+}
+
+#dodaj {
+    border: 20px;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    background-color: rgba(0, 200, 0, 1);
+}
+
+#dodaj:hover {
+    background-color: rgba(0, 255, 0, 1);
+}
