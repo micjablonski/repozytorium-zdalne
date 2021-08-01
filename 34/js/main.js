@@ -1,6 +1,9 @@
-const z1 = "Uwielbiam JavaScript";
-const z2 = "Jestem świetnym programistą";
-function wypisz(z1, z2) {
-    return z1 + z2;
+const n1 = "Uwielbiam JavaScript";
+const n2 = "Jestem świetnym programistą";
+function wypisz(n1, n2) {
+    if (n1.length > n2.length)
+        return n1;
+    else
+        return n2;
 }
-console.log(wypisz(z1.length, z2.length));
+console.log(wypisz(n1, n2));
